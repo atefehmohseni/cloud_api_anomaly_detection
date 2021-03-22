@@ -1,0 +1,26 @@
+SERVICE: apigateway.amazonaws.com 
+parameter:template	percent:88.88888888888889	16out of18	type:<class 'bool'>	sample value:False
+parameter:limit	percent:55.55555555555556	10out of18	type:<class 'int'>	sample value:500
+parameter:restApiId	percent:61.111111111111114	11out of18	type:<class 'str'>	sample value:lqkz4az9p0
+SERVICE: dynamodb.amazonaws.com 
+parameter:tableName	percent:100.0	2out of2	type:<class 'str'>	sample value:shopping-5aipckveofhp7pme7hotm3b6iu-reinvent
+SERVICE: pinpoint.amazonaws.com 
+parameter:page-size	percent:50.0	5out of10	type:<class 'str'>	sample value:150
+parameter:application-id	percent:90.0	9out of10	type:<class 'str'>	sample value:2c27a9499b7440b1b28e6b6737629a3a
+SERVICE: s3.amazonaws.com 
+parameter:host	percent:92.3076923076923	24out of26	type:<class 'list'>	sample value:['s3.amazonaws.com']
+parameter:bucketName	percent:88.46153846153845	23out of26	type:<class 'str'>	sample value:awsamplifyecommercetrailbucket
+parameter:Host	percent:7.6923076923076925	2out of26	type:<class 'str'>	sample value:s3.amazonaws.com
+parameter:policy	percent:7.6923076923076925	2out of26	type:<class 'list'>	sample value:['']
+parameter:publicAccessBlock	percent:7.6923076923076925	2out of26	type:<class 'list'>	sample value:['']
+parameter:versioning	percent:7.6923076923076925	2out of26	type:<class 'list'>	sample value:['']
+SERVICE: cognito.amazonaws.com 
+SERVICE: cognito-idp.amazonaws.com 
+parameter:clientId	percent:35.714285714285715	5out of14	type:<class 'str'>	sample value:8n6s64b1i083nda11csuh9c1
+parameter:username	percent:35.714285714285715	5out of14	type:<class 'str'>	sample value:******
+parameter:userPoolId	percent:50.0	7out of14	type:<class 'str'>	sample value:us-east-1_xctd6fquY
+parameter:maxResults	percent:21.428571428571427	3out of14	type:<class 'int'>	sample value:60
+parameter:limit	percent:21.428571428571427	3out of14	type:<class 'int'>	sample value:60
+SERVICE: cognito-identity.amazonaws.com 
+SERVICE: logs.amazonaws.com 
+parameter:logGroupName	percent:50.0	2out of4	type:<class 'str'>	sample value:/aws/lambda/awsamplifyecommerce-items-reinvent
