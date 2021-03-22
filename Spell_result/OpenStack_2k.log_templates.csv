@@ -1,0 +1,85 @@
+EventId,EventTemplate,Occurrences
+5d61dcc8,200 len <*> time <*>,933
+c435d426,<*> VM <*> (Lifecycle Event),109
+00807a9e,b9000564-fe1a-409b-b8cc-1e88b294cd1d] <*> <*> <*> instance <*>,5
+ce5fb8df,checking,82
+28c4f26e,in use on this node 1 local 0 on other nodes sharing this instance storage,82
+b1bb7fb4,/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742,172
+537774cc,<*> Instance <*> successfully.,44
+f2377938,b9000564-fe1a-409b-b8cc-1e88b294cd1d] Took <*> seconds to <*>,3
+183171c2,16 total allocated vcpus <*>,15
+d06610a6,name cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us phys_ram 64172MB used_ram <*> phys_disk 15GB used_disk <*> total_vcpus 16 used_vcpus <*> pci_stats [],15
+a82acf03,204 len 203 time <*>,22
+8713c406,404 len <*> time <*>,41
+a016fb9e,<*> Deletion of <*> complete,21
+93b2c5e8,No instances found for any event,21
+1ce9896b,202 len 733 time <*>,21
+ab496d45,<*> Attempting claim memory 2048 MB disk 20 GB vcpus 1 CPU,21
+80ce7bcd,<*> Total memory 64172 MB used 512.00 MB,21
+c8e2e4d2,<*> memory limit 96258.00 MB free 95746.00 MB,21
+faae0cfe,96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] Total <*> <*> <*> used 0.00 <*>,2
+ee514f95,<*> <*> limit not specified defaulting to unlimited,42
+b680baa7,<*> Claim successful,21
+96c3a568,<*> Creating image,21
+40878357,96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] <*> <*> <*> instance <*>,5
+204ef20d,96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] Took <*> seconds to <*>,3
+fcc6811a,b562ef10-ba2d-48ae-bf4a-18666cba4a51] Total <*> <*> <*> used 0.00 <*>,2
+7b3846a4,b562ef10-ba2d-48ae-bf4a-18666cba4a51] <*> <*> <*> instance <*>,5
+0db78775,b562ef10-ba2d-48ae-bf4a-18666cba4a51] Took <*> seconds to <*>,3
+8ebce97a,78dc1847-8848-49cc-933e-9239b12c9dcf] Total <*> <*> <*> used 0.00 <*>,2
+d9fad06a,78dc1847-8848-49cc-933e-9239b12c9dcf] <*> <*> <*> instance <*>,5
+e2b4434c,78dc1847-8848-49cc-933e-9239b12c9dcf] Took <*> seconds to <*>,3
+79a8a2b6,95960536-049b-41f6-9049-05fc479b6a7c] Total <*> <*> <*> used 0.00 <*>,2
+d5971ce2,95960536-049b-41f6-9049-05fc479b6a7c] <*> <*> <*> instance <*>,5
+7ffce60b,95960536-049b-41f6-9049-05fc479b6a7c] Took <*> seconds to <*>,3
+6fa0fe30,7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] Total <*> <*> <*> used 0.00 <*>,2
+c04a26d4,7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] <*> <*> <*> instance <*>,5
+4d33867d,7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] Took <*> seconds to <*>,3
+f8f43ead,af5f7392-f7d4-4298-b647-c98924c64aa1] Total <*> <*> <*> used 0.00 <*>,2
+9ddcbda1,af5f7392-f7d4-4298-b647-c98924c64aa1] <*> <*> <*> instance <*>,5
+16a116ce,af5f7392-f7d4-4298-b647-c98924c64aa1] Took <*> seconds to <*>,3
+aa1c7204,ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] Total <*> <*> <*> used 0.00 <*>,2
+ec37f347,ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] <*> <*> <*> instance <*>,5
+f7b4af58,ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] Took <*> seconds to <*>,3
+eed66e89,43204226-2f87-4da7-b7ee-4d20cc66e846] Total <*> <*> <*> used 0.00 <*>,2
+9facb45d,43204226-2f87-4da7-b7ee-4d20cc66e846] <*> <*> <*> instance <*>,5
+c0e4d0c8,43204226-2f87-4da7-b7ee-4d20cc66e846] Took <*> seconds to <*>,3
+cfa1d295,fecdd5a9-3ca0-4c82-9336-63b7774f738e] Total <*> <*> <*> used 0.00 <*>,2
+ad6f7962,fecdd5a9-3ca0-4c82-9336-63b7774f738e] <*> <*> <*> instance <*>,5
+56574255,fecdd5a9-3ca0-4c82-9336-63b7774f738e] Took <*> seconds to <*>,3
+51face32,63a0d960-70b6-44c6-b606-491478a5cadf] Total <*> <*> <*> used 0.00 <*>,2
+b6e46185,63a0d960-70b6-44c6-b606-491478a5cadf] <*> <*> <*> instance <*>,5
+92816cbc,63a0d960-70b6-44c6-b606-491478a5cadf] Took <*> seconds to <*>,3
+ede5aee4,d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] Total <*> <*> <*> used 0.00 <*>,2
+0ed7fd16,d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] <*> <*> <*> instance <*>,4
+5eae4d77,d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] Took <*> seconds to <*>,3
+5a3252e6,17288ea8-cbf4-4f0e-94fe-853fd2735f29] Total <*> <*> <*> used 0.00 <*>,2
+79be302a,17288ea8-cbf4-4f0e-94fe-853fd2735f29] <*> <*> <*> instance <*>,5
+2cde8ce9,17288ea8-cbf4-4f0e-94fe-853fd2735f29] Took <*> seconds to <*>,3
+eab1b9ff,70c1714b-c11b-4c88-b300-239afe1f5ff8] Total <*> <*> <*> used 0.00 <*>,2
+01c8233c,70c1714b-c11b-4c88-b300-239afe1f5ff8] <*> <*> <*> instance <*>,5
+bb09f23e,70c1714b-c11b-4c88-b300-239afe1f5ff8] Took <*> seconds to <*>,3
+186812b4,bf8c824d-f099-4433-a41e-e3da7578262e] Total <*> <*> <*> used 0.00 <*>,2
+f3603ae1,bf8c824d-f099-4433-a41e-e3da7578262e] <*> <*> <*> instance <*>,6
+025e8d86,bf8c824d-f099-4433-a41e-e3da7578262e] Took <*> seconds to <*>,3
+3c9d2ed9,be793e89-2cc3-4f99-9884-9c6a624a84bc] Total <*> <*> <*> used 0.00 <*>,2
+398c1883,be793e89-2cc3-4f99-9884-9c6a624a84bc] <*> <*> <*> instance <*>,5
+1ab0d8ff,be793e89-2cc3-4f99-9884-9c6a624a84bc] Took <*> seconds to <*>,3
+82170bd5,a015cf14-84bb-4156-a48d-7c4824ac7a9d] Total <*> <*> <*> used 0.00 <*>,2
+debd405f,a015cf14-84bb-4156-a48d-7c4824ac7a9d] <*> <*> <*> instance <*>,4
+9c3e596e,a015cf14-84bb-4156-a48d-7c4824ac7a9d] Took <*> seconds to <*>,3
+26b91104,d96a117b-0193-4549-bdcc-63b917273d1d] Total <*> <*> <*> used 0.00 <*>,2
+86c4c160,d96a117b-0193-4549-bdcc-63b917273d1d] <*> <*> <*> instance <*>,5
+a25fce71,d96a117b-0193-4549-bdcc-63b917273d1d] Took <*> seconds to <*>,3
+2369c47c,d6b7bd36-2943-4363-9235-fffdd89ea40e] Total <*> <*> <*> used 0.00 <*>,2
+b1db788f,d6b7bd36-2943-4363-9235-fffdd89ea40e] <*> <*> <*> instance <*>,5
+ced0d475,d6b7bd36-2943-4363-9235-fffdd89ea40e] Took <*> seconds to <*>,3
+d9bd8e52,127e769a-4fe6-4548-93b1-513ac51e0452] Total <*> <*> <*> used 0.00 <*>,2
+1c8d42bf,127e769a-4fe6-4548-93b1-513ac51e0452] <*> <*> <*> instance <*>,5
+8ed7fb17,127e769a-4fe6-4548-93b1-513ac51e0452] Took <*> seconds to <*>,3
+9b508e7d,c62f4f25-982c-4ea2-b5e4-93000edfcfbf] Total <*> <*> <*> used 0.00 <*>,2
+a335aa4a,c62f4f25-982c-4ea2-b5e4-93000edfcfbf] <*> <*> <*> instance <*>,5
+7d474830,c62f4f25-982c-4ea2-b5e4-93000edfcfbf] Took <*> seconds to <*>,3
+04c5bb40,faf974ea-cba5-4e1b-93f4-3a3bc606006f] Total <*> <*> <*> used 0.00 <*>,2
+fc375c10,faf974ea-cba5-4e1b-93f4-3a3bc606006f] <*> <*> <*> instance <*>,3
+3895291f,faf974ea-cba5-4e1b-93f4-3a3bc606006f] Took <*> seconds to <*>,2
